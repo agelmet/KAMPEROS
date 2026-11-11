@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/melissokomiki-thessalonikis-logo.svg"
+ },
+ "source_md5": "ae7ecc079cc07707b1d0d70625d4c7f5",
+ "version": "8e7cc79e",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "fab78528a5c4381e30dacbe9931cdb2e"
+ ],
+ "made": "2026-11-11"
+}
